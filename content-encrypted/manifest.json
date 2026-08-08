@@ -1,11 +1,71 @@
 {
-  "generated": "2026-08-08T09:38:48Z",
+  "generated": "2026-08-08T11:40:02Z",
   "assets": [
     {
       "path": "ban/c1/a003/car.png",
       "sha256": "fe92f89190b7873715f639969912d4d00e6d1789006dafbc989942d39363978f",
       "size": 17136,
       "nonce": "12e9922ea8559799bb1c59c21ee42405"
+    },
+    {
+      "path": "isl/c1/a001/1.jpg",
+      "sha256": "4972fce5075faa0f73c0b14380e7d14f59a57be9fe59d1516e97a224b707619b",
+      "size": 11843,
+      "nonce": "02c8f1902a4b4b06025f6b956fac222d"
+    },
+    {
+      "path": "isl/c1/a001/10.jpg",
+      "sha256": "d6b4ee4d77248ebef2236da06e77134dd3b64f46aad234f618a65877218d2282",
+      "size": 6314,
+      "nonce": "befd58948d74fcd6cb068645af9a25c0"
+    },
+    {
+      "path": "isl/c1/a001/2.jpg",
+      "sha256": "8f5396e809ff262050ef2049bf3309b00660e8e82c99e515c3766eb5884a9d07",
+      "size": 6060,
+      "nonce": "5e05ee5969ecc4a5747a09cae73a73a7"
+    },
+    {
+      "path": "isl/c1/a001/3.jpg",
+      "sha256": "ff62c8dcaa1231d904e9fb7b94b18b816a54f2dac0e2c3e95f4bada627825a4c",
+      "size": 9578,
+      "nonce": "f013d27531bafeca049c1e51b6bddaa3"
+    },
+    {
+      "path": "isl/c1/a001/4.jpg",
+      "sha256": "1d6342e1f243934e49367b5203f01304bc5d074c52f269605abf13fd25997873",
+      "size": 5870,
+      "nonce": "0a1ea99fded74f53bc38a422aa709cc2"
+    },
+    {
+      "path": "isl/c1/a001/5.jpg",
+      "sha256": "847ec96c42073ea0e92d73c1328af153c1bd792beefcfd35a9b2129456927e7a",
+      "size": 7741,
+      "nonce": "c1d83c4bd71c5eec1f3a8b7f41506a2e"
+    },
+    {
+      "path": "isl/c1/a001/6.jpg",
+      "sha256": "a06f0ccdda40b138cb9f9a8eba71ac38d6ee5eb88c7f576cb1240474ff96ad6e",
+      "size": 5515,
+      "nonce": "2871943c636e2411c8cb351b4e9c6968"
+    },
+    {
+      "path": "isl/c1/a001/7.jpg",
+      "sha256": "8f8ecfef95afbf5d440ee102d90b43da728895e90c51e78e8a8e3360a099e3e3",
+      "size": 6953,
+      "nonce": "af140652d702922cc21c2b2b9707533e"
+    },
+    {
+      "path": "isl/c1/a001/8.jpg",
+      "sha256": "522ddefee5f32978e820588030440c2e1e90dcf9d79868d9e1371faa30dbfe93",
+      "size": 6572,
+      "nonce": "6faf35a0a22db17b5fb844970ff2391b"
+    },
+    {
+      "path": "isl/c1/a001/9.jpg",
+      "sha256": "4abd7c5503df22abbc38380d7bc27576c05f36f202d1794af2ef1ad17f51724c",
+      "size": 6820,
+      "nonce": "648f6624089a3c50df909abd7bcb2dec"
     }
   ]
 }
