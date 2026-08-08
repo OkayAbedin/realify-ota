@@ -1,6 +1,6 @@
 {
   "version": "1.4.0",
   "url": "https://raw.githubusercontent.com/OkayAbedin/realify-ota/main/firmware-encrypted/realify_firmware_1.4.0.bin.enc",
-  "sha256": "b8dacaf17416f52aaf9da9719716b53e280b4ccbc076c7604585676b3fb45dc9",
-  "nonce": "730dc514f81c59520d04a77504e3baaf"
+  "sha256": "3b047c494703626ae3cb36ce8b0cf0c2da8f3bd98e1aed6762827e897f430d1f",
+  "nonce": "20ea92cc60a7c0788c33248d96d06dd5"
 }
